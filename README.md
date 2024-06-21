@@ -1,2 +1,3 @@
-# data_cleaning-
-this repo will contain some of my projects in data cleaning 
+# Some steps to follow for a good Data-Cleaning: 
+**importation les modules necessaires en python**:
+* Pandas : 
